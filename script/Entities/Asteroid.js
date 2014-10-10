@@ -15,7 +15,7 @@ ENGINE.Asteroid = function(args) {
   this.radius = Math.min(this.width, this.height) / 2 | 0;
 
   this.scale = (this.splits + 1) / 4;
-  this.hp = this.scale * 10 | 0;
+  this.hp = this.scale * 2 | 0;
 
 };
 

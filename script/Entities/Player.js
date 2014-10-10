@@ -22,8 +22,8 @@ ENGINE.Player = function(args) {
     cooldown: 0,
     maxCooldown: 0.3,
 
-    hp: 10,
-    maxHp: 10
+    hp: 100,
+    maxHp: 100
 
   }, args);
 
