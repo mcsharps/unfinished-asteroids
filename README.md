@@ -1,4 +1,4 @@
-#I finished this asteroids game/code practice. Don't look at my code unless you want spoilers!!
+#I finished this asteroids game/code practice project. Don't look at my code unless you want spoilers!!
 # Unfinished asteroids
 
 [Follow to the wiki](https://github.com/rezoner/unfinished-asteroids/wiki) where I've prepared a plot for you - our new employee.
